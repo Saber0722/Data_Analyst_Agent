@@ -1,9 +1,10 @@
 together
-pandas as pd
-matplotlib.pyplot as plt
-seaborn as sns
+pandas
+matplotlib
+seaborn
 pdfplumber
 pytesseract
 docx
 io
 base64
+streamlit
