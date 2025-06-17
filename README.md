@@ -87,7 +87,7 @@ stream = client.chat.completions.create(
 
 1. **Install dependencies**
 2. **Obtain and set** `TOGETHER_API_KEY`
-3. **Run** the agent with `python agent.py`
+3. **Run** the agent with `streamlit run app.py`
 4. **Test** via `pytest`
 5. (Optional) Modify model selection in `config.py`
 
